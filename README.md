@@ -114,3 +114,8 @@ morgan (Request Logging)
 
 ## 🔗 Repository Link
 [GitHub Repository](https://github.com/vishnuu5/Janitri-Backend-Assignment.git)
+
+
+
+## Demo Video
+[watch video](https://github.com/user-attachments/assets/bf846081-39e9-4269-b3a3-c6d9a9d5ac93)
