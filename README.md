@@ -19,7 +19,7 @@ Create a .env file in the root directory and add the following:
 
 ```bash
 PORT=5000
-MONGO_URI="mongodb+srv://vishnu:8V6pEyJOJ150U33e@janitri-backend.hp3id.mongodb.net/janitri-backend?retryWrites=true&w=majority&appName=janitri-backend"
+MONGO_URI=
 ```
 
 4. Start the Server
